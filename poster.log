@@ -1,0 +1,725 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.22)  15 FEB 2026 00:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./poster.tex
+(poster.tex
+LaTeX2e <2023-06-01>
+L3 programming layer <2023-06-16>
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/a0poster\a0poster.cls
+Document Class: a0poster 2004/01/31 v1.22b a0poster class (GK, MW)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+\xkoord=\count193
+\ykoord=\count194
+\xscale=\count195
+\yscale=\count196
+
+
+Package a0poster Warning: Unknown Option a0paper on input line 88.
+
+\tausch=\dimen141
+\Ausgabe=\write3
+\openout3 = `a0header.ps'.
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/a0poster\a0size.sty
+File: a0size.sty 2004/01/31 v1.22b a0poster class (GK, MW)
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 229.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 229.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 229.
+\big@size=\dimen142
+))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+) (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen145
+\pgfutil@tempdimb=\dimen146
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-la
+tex.def
+\pgfutil@abb=\box51
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.cod
+e.tex
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.c
+ode.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.co
+de.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslib
+raryfiltered.code.tex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen147
+\pgf@y=\dimen148
+\pgf@xa=\dimen149
+\pgf@ya=\dimen150
+\pgf@xb=\dimen151
+\pgf@yb=\dimen152
+\pgf@xc=\dimen153
+\pgf@yc=\dimen154
+\pgf@xd=\dimen155
+\pgf@yd=\dimen156
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count197
+\c@pgf@countb=\count198
+\c@pgf@countc=\count199
+\c@pgf@countd=\count266
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count267
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-p
+dftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-c
+ommon-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysso
+ftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count268
+\pgfsyssoftpath@bigbuffer@items=\count269
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyspr
+otocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.c
+ode.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.te
+x
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.cod
+e.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.c
+ode.tex
+\pgfmath@dimen=\dimen157
+\pgfmath@count=\count270
+\pgfmath@box=\box52
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.code.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
+s.integerarithmetics.code.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.cod
+e.tex)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count271
+))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepo
+ints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen158
+\pgf@picmaxx=\dimen159
+\pgf@picminy=\dimen160
+\pgf@picmaxy=\dimen161
+\pgf@pathminx=\dimen162
+\pgf@pathmaxx=\dimen163
+\pgf@pathminy=\dimen164
+\pgf@pathmaxy=\dimen165
+\pgf@xx=\dimen166
+\pgf@xy=\dimen167
+\pgf@yx=\dimen168
+\pgf@yy=\dimen169
+\pgf@zx=\dimen170
+\pgf@zy=\dimen171
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen172
+\pgf@path@lasty=\dimen173
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen174
+\pgf@shorten@start@additional=\dimen175
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count272
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen176
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen177
+\pgf@pt@y=\dimen178
+\pgf@pt@temp=\dimen179
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen180
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen181
+\pgf@sys@shading@range@num=\count273
+\pgf@shadingcount=\count274
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box56
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerd
+f.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box57
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen182
+\pgf@nodesepend=\dimen183
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.co
+de.tex))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.te
+x))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.cod
+e.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen184
+\pgffor@skip=\dimen185
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\t
+ikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrary
+plothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count275
+\pgfplotmarksize=\dimen186
+)
+\tikz@lastx=\dimen187
+\tikz@lasty=\dimen188
+\tikz@lastxsaved=\dimen189
+\tikz@lastysaved=\dimen190
+\tikz@lastmovetox=\dimen191
+\tikz@lastmovetoy=\dimen192
+\tikzleveldistance=\dimen193
+\tikzsiblingdistance=\dimen194
+\tikz@figbox=\box58
+\tikz@figbox@bg=\box59
+\tikz@tempbox=\box60
+\tikz@tempbox@bg=\box61
+\tikztreelevel=\count276
+\tikznumberofchildren=\count277
+\tikznumberofcurrentchild=\count278
+\tikz@fig@count=\count279
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulemat
+rix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count280
+\pgfmatrixcurrentcolumn=\count281
+\pgf@matrix@numberofcolumns=\count282
+)
+\tikz@expandcount=\count283
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2023/03/17 version 6.0.3 text color boxes
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks32
+\verbatim@line=\toks33
+\verbatim@in@stream=\read3
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks34
+) (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count284
+)
+\tcb@titlebox=\box62
+\tcb@upperbox=\box63
+\tcb@lowerbox=\box64
+\tcb@phantombox=\box65
+\c@tcbbreakpart=\count285
+\c@tcblayer=\count286
+\c@tcolorbox@number=\count287
+\tcb@temp=\box66
+\tcb@temp=\box67
+\tcb@temp=\box68
+\tcb@temp=\box69
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count288
+\mult@box=\box70
+\multicol@leftmargin=\dimen195
+\c@unbalance=\count289
+\c@collectmore=\count290
+\doublecol@number=\count291
+\multicoltolerance=\count292
+\multicolpretolerance=\count293
+\full@width=\dimen196
+\page@free=\dimen197
+\premulticols=\dimen198
+\postmulticols=\dimen199
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box71
+\last@line=\box72
+\mc@boxedresult=\box73
+\maxbalancingoverflow=\dimen256
+\mult@rightbox=\box74
+\mult@grightbox=\box75
+\mult@firstbox=\box76
+\mult@gfirstbox=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\c@minrows=\count294
+\c@columnbadness=\count295
+\c@finalcolumnbadness=\count296
+\last@try=\dimen257
+\multicolovershoot=\dimen258
+\multicolundershoot=\dimen259
+\mult@nat@firstbox=\box114
+\colbreak@box=\box115
+\mc@col@check@num=\count297
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen260
+\enit@toks=\toks35
+\enit@inbox=\box116
+\enit@count@id=\count298
+\enitdp@description=\count299
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen261
+\lightrulewidth=\dimen262
+\cmidrulewidth=\dimen263
+\belowrulesep=\dimen264
+\belowbottomsep=\dimen265
+\aboverulesep=\dimen266
+\abovetopsep=\dimen267
+\cmidrulesep=\dimen268
+\cmidrulekern=\dimen269
+\defaultaddspace=\dimen270
+\@cmidla=\count300
+\@cmidlb=\count301
+\@aboverulesep=\dimen271
+\@belowrulesep=\dimen272
+\@thisruleclass=\count302
+\@lastruleclass=\count303
+\@thisrulewidth=\dimen273
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen274
+\ar@mcellbox=\box117
+\extrarowheight=\dimen275
+\NC@list=\toks36
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box118
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen276
+\TX@old@table=\dimen277
+\TX@old@col=\dimen278
+\TX@target=\dimen279
+\TX@delta=\dimen280
+\TX@cols=\count304
+\TX@ftn=\toks37
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5.
+sty (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-06-16 L3 programming layer (loader) 
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex
+.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count305
+\l__pdf_internal_box=\box119
+))
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys
+2e.sty
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.s
+ty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-
+generic-helper.sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
+tawesome5
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-
+mapping.def)))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/qrcode\qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks38
+\XKV@tempa@toks=\toks39
+)
+\XKV@depth=\count306
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@qr@i=\count307
+\c@qr@j=\count308
+\qr@a=\count309
+\qr@b=\count310
+\qr@c=\count311
+\qr@for@depth=\count312
+\qr@for@maxdepth=\count313
+\qr@for@start=\count314
+\qr@for@end=\count315
+\qr@for@step=\count316
+\qr@newforcount=\count317
+\qr@newforcount=\count318
+\qr@desiredheight=\skip55
+\qr@modulesize=\skip56
+\qr@minipagewidth=\skip57
+\c@maski=\count319
+\c@maskj=\count320
+\c@totalones=\count321
+\c@penaltyi=\count322
+\c@penaltyii=\count323
+\c@penaltyiii=\count324
+\c@penaltyiv=\count325
+\c@qr@hexchars=\count326
+\qr@newforcount=\count327
+\c@qr@divisionsremaining=\count328
+) (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count329
+\Gm@cntv=\count330
+\c@Gm@tempcnt=\count331
+\Gm@bindingoffset=\dimen281
+\Gm@wd@mp=\dimen282
+\Gm@odd@mp=\dimen283
+\Gm@even@mp=\dimen284
+\Gm@layoutwidth=\dimen285
+\Gm@layoutheight=\dimen286
+\Gm@layouthoffset=\dimen287
+\Gm@layoutvoffset=\dimen288
+\Gm@dimlist=\toks40
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 80
+.
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+No file poster.aux.
+\openout1 = `poster.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count332
+\scratchdimen=\dimen289
+\scratchbox=\box120
+\nofMPsegments=\count333
+\nofMParguments=\count334
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count335
+\MPscratchDim=\dimen290
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
+\everyMPtoPDFconversion=\toks42
+)
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
+.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 2279.06577pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 3269.22166pt, 56.9055pt)
+* \paperwidth=2392.87677pt
+* \paperheight=3383.03267pt
+* \textwidth=2279.06577pt
+* \textheight=3269.22166pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-15.36449pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <30> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 112.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+nput line 124.
+
+(C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomef
+ree1.fd)
+LaTeX Font Info:    Trying
