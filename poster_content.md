@@ -35,24 +35,55 @@
 | **Federated Learning** | Data NEVER leaves the device |
 | **Differential Privacy** | Mathematical protection ε=1.0 |
 
+### 🖥️ Complete 4-Tab Interface
+
+| Tab | Functionality | Target User | Audio Output |
+|-----|---------------|-------------|--------------|
+| 🩺 **Patient Diagnosis** | Voice/Text → Symptoms → Risk Level | Rural Patient | ✅ Yes |
+| 💊 **Prescription → Darija** | Translates medications simply | Illiterate Patient | ✅ Yes |
+| 👨‍⚕️ **Doctor Summary** | Darija → FR/EN professional report | Healthcare Worker | ❌ No |
+| 🔬 **X-Ray/Scan Analysis** | Image → MedGemma AI Analysis | Health Agent | ❌ No |
+
 ### 🔒 Technical Originality
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  👩‍🌾 Patient: "Rassi kaydor w tansion tal3a..."       │
-│                         ↓                            │
-│  🧠 MedGemma-4B: Specialized medical analysis        │
-│                         ↓                            │
-│  🔊 TTS Darija: "Khassek tmchi l tabib daba daba!"  │
-│                         ↓                            │
-│  👂 Patient HEARS the advice (no reading required!) │
-└──────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────┐
+│  🩺 TAB 1: PATIENT DIAGNOSIS                                       │
+│  👩‍🌾 Patient: "Rassi kaydor w tansion tal3a..."                     │
+│                         ↓                                          │
+│  🧠 MedGemma-4B: Specialized medical analysis                      │
+│                         ↓                                          │
+│  🔊 TTS Darija: "Khassek tmchi l tabib daba daba!"                │
+│                         ↓                                          │
+│  👂 Patient HEARS the advice (no reading required!)               │
+├────────────────────────────────────────────────────────────────────┤
+│  💊 TAB 2: PRESCRIPTION TRANSLATION                                │
+│  📝 Input: "Paracetamol 500mg, 3x daily after meals"              │
+│                         ↓                                          │
+│  🗣️ Output: "Khod 7abba wa7da f sba7, wa7da f 12, wa7da l3chiya   │
+│             mor makla. Ma tzidch 3la 3 7abbat f nhar."            │
+│                         ↓                                          │
+│  🔊 Audio explanation in Darija for illiterate patients           │
+├────────────────────────────────────────────────────────────────────┤
+│  👨‍⚕️ TAB 3: DOCTOR SUMMARY                                         │
+│  🎤 Darija consultation recording                                  │
+│                         ↓                                          │
+│  📋 Professional FR/EN summary for medical records                │
+│  "Patient presents with hypertension (140/90), headaches..."      │
+├────────────────────────────────────────────────────────────────────┤
+│  🔬 TAB 4: MEDICAL IMAGE ANALYSIS                                  │
+│  📷 Upload X-Ray / Ultrasound / Scan                               │
+│                         ↓                                          │
+│  🧠 MedGemma Vision: AI-assisted interpretation                   │
+│  ⚠️ "Potential anomaly detected - recommend specialist review"    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 ### 💡 First-of-its-kind
 - **First Darija voice health system** with audio response
 - **Federated Learning on Moroccan maternal data**
 - **250x less data transmitted** vs traditional cloud
+- **Bidirectional translation:** Darija ↔ FR/EN for patients AND doctors
 
 ---
 
